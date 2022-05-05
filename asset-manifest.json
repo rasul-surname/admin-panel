@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/admin-panel/static/css/main.d542b04c.chunk.css",
+    "main.js": "/admin-panel/static/js/main.93d9b92c.chunk.js",
+    "main.js.map": "/admin-panel/static/js/main.93d9b92c.chunk.js.map",
+    "runtime-main.js": "/admin-panel/static/js/runtime-main.313b1fae.js",
+    "runtime-main.js.map": "/admin-panel/static/js/runtime-main.313b1fae.js.map",
+    "static/js/2.777cfd03.chunk.js": "/admin-panel/static/js/2.777cfd03.chunk.js",
+    "static/js/2.777cfd03.chunk.js.map": "/admin-panel/static/js/2.777cfd03.chunk.js.map",
+    "index.html": "/admin-panel/index.html",
+    "static/css/main.d542b04c.chunk.css.map": "/admin-panel/static/css/main.d542b04c.chunk.css.map",
+    "static/js/2.777cfd03.chunk.js.LICENSE.txt": "/admin-panel/static/js/2.777cfd03.chunk.js.LICENSE.txt",
+    "static/media/defaultImg.5ded1af3.jpg": "/admin-panel/static/media/defaultImg.5ded1af3.jpg",
+    "static/media/defaultYellow.976ecd0f.jpg": "/admin-panel/static/media/defaultYellow.976ecd0f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313b1fae.js",
+    "static/js/2.777cfd03.chunk.js",
+    "static/css/main.d542b04c.chunk.css",
+    "static/js/main.93d9b92c.chunk.js"
+  ]
+}
